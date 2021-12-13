@@ -12,7 +12,7 @@ if (shouldShowResultInDogYears=== true) {
   );
   
 } else {
-   ( "Your dog will be " +  humanYears + " human years old in " + dogYearFuture + "."
+   console.log( "Your dog will be " +  humanYears + " human years old in " + dogYearFuture + "."
   );
   
 }
