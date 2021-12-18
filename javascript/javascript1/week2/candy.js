@@ -1,4 +1,4 @@
-Doktorandin let boughtCandyPrices=[]
+let boughtCandyPrices=[]
 function addCandy(candyType, weight) {
     let price=0;
   if (candyType === "sweet") {
