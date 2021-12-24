@@ -32,7 +32,4 @@ addStudentToClass('Basma');
     
     console.log (class07Students);
   console.log (getNumberOfStudents());
-
-   
-   
-}
+  
